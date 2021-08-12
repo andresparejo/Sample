@@ -1,4 +1,4 @@
-public struct Sample {
+public final class Sample {
     var text = "Hello, World!"
     
     public init() {
